@@ -1,0 +1,61 @@
+.tabla{
+    background-color: #ffc800;
+    position: relative;
+    width: fit-content;
+}
+
+.filtro{
+    position: relative;
+    width: fit-content;
+    right: -541px;
+}
+
+.label{
+    color: #ffc800;
+    font-style: oblique;
+    font-weight: bolder;
+    position: relative;
+    right: -600px;
+    font-size:xx-large
+}
+
+.button{
+    position:relative;
+    left: 90px;
+    font-weight: bolder;
+    background-color: #ffc800;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ffc800;
+}
+
+.button2{
+    position:absolute;
+    right: 135px;
+    top: 150px;
+    font-weight: bolder;
+    background-color: #ffc800;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ffc800;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+
+.button:hover {
+    background-color: #ffc800; 
+    color: white;
+    border-color: #ffc800;
+}
+
+.button2:hover {
+    background-color: #ffc800; 
+    color: white;
+    border-color: #ffc800;
+}

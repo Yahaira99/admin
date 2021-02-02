@@ -1,0 +1,18 @@
+.nav{
+    background-color: #ffc800;
+    height: 70px;
+}
+
+.titulo2{
+    color: #737277;
+    font-style: oblique;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    position: absolute;
+    top: 12px;
+    left: 150px
+}
+
+.img{
+    position: relative;
+    left: -15px;
+}
